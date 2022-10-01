@@ -1,3 +1,3 @@
 # Kokoa Clone 2022 Update
 
-Let's have fun with this Project!
+HTML & CSS are so much fun! Let's have fun with this project using them!
