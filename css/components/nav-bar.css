@@ -34,15 +34,6 @@
 }
 
 .nav__options {
-  background-color: tomato;
-  width: 7px;
-  height: 7px;
-  border-radius: 3.5px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: white;
-  font-weight: 600;
   position: absolute;
   left: 30px;
   bottom: 30px;
