@@ -57,6 +57,26 @@
   margin-left: 3px;
 }
 
+@keyframes heartBeat {
+  0% {
+    color: #fff;
+    transform: scale(1.5);
+  }
+  50% {
+    color: tomato;
+    transform: scale(1.1);
+  }
+  100% {
+    color: #fff;
+    transform: none;
+  }
+}
+
+.open-post__heart-count:hover i {
+  will-change: transform;
+  animation: heartBeat 1s linear infinite;
+}
+
 .open-post__hashtags {
   text-transform: uppercase;
   opacity: 0.6;
