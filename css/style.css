@@ -24,8 +24,17 @@
 body {
   color: #2e363e;
   font-family: "Open Sans", sans-serif;
+  background-color: #b2eebb;
 }
 
 .main-screen {
   padding: 0px var(--horizontal-space);
+}
+
+.index__background {
+  background-color: #b2eebb;
+}
+
+#login-form input {
+  background-color: #b2eebb;
 }

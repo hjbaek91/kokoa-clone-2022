@@ -45,7 +45,7 @@
 }
 
 #login-form input[type="submit"] {
-  background-color: var(--yellow);
+  background-color: #6bdd7e;
   cursor: pointer;
   padding: 20px 0;
   border-radius: 5px;
@@ -56,4 +56,13 @@
   text-decoration: none;
   color: inherit;
   font-size: 13px;
+}
+
+.index__img-box {
+  display: flex;
+  justify-content: center;
+}
+
+.index__img {
+  margin-top: 100px;
 }
