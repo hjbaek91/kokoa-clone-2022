@@ -64,7 +64,7 @@ body {
   height: 230px;
 }
 
-.friends-screen img:last-child {
+.triforce__img {
   width: 200px;
   height: 180px;
   position: absolute;
