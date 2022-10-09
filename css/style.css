@@ -25,6 +25,7 @@ body {
   color: #2e363e;
   font-family: "Open Sans", sans-serif;
   background-color: #b2eebb;
+  height: 500vh;
 }
 
 .main-screen {
@@ -40,8 +41,8 @@ body {
 }
 
 .triforce__img--2 {
-  width: 180px;
-  height: 160px;
+  width: 110px;
+  height: 100px;
   position: absolute;
   right: 10px;
   bottom: 85px;
