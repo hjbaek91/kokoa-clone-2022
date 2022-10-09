@@ -186,6 +186,8 @@
   transform: translateX(-10%) translateY(-80px);
 }
 
+/* --- */
+
 .reply:focus-within {
   transform: translateY(80px);
 }
